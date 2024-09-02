@@ -432,6 +432,7 @@ return 0;
 ```
 ## OUTPUT:
 
+![Screenshot 2024-09-02 113835](https://github.com/user-attachments/assets/a9b3be96-59bb-4dd9-aae1-2de54d5c5d4c)
 
 
 ## RESULT:
