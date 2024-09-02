@@ -250,7 +250,7 @@ return 0;
 
 
 ## RESULT:
-The program is executed successfully
+The program forPlayfair Cipher is executed successfully
 
 
 ---------------------------
