@@ -246,6 +246,7 @@ return 0;
 ```
 
 ## OUTPUT:
+![Screenshot 2024-09-02 104703](https://github.com/user-attachments/assets/a04f5ffc-1fce-4dca-913a-61bbdbe4f265)
 
 
 
