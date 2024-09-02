@@ -283,8 +283,6 @@ The cipher can, be adapted to an alphabet with any number of letters. All arithm
 
 
 ## PROGRAM:
-
-```
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -329,10 +327,10 @@ printf(" %c",c[i]+65);
 getch();
 return 0;
 }
-```
 
 
 ## OUTPUT:
+![Screenshot 2024-09-02 110558](https://github.com/user-attachments/assets/38093d33-58b6-4f04-923d-e772956ff536)
 
 
 ## RESULT:
