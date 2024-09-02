@@ -516,6 +516,7 @@ return 0;
 
 
 ## OUTPUT:
+![cry  5](https://github.com/user-attachments/assets/cdedc2f0-c478-4790-9a15-228eb921f68f)
 
 
 ## RESULT:
